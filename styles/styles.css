@@ -1,0 +1,23 @@
+body {
+  background-color: blanchedalmond;
+}
+h1,
+h4 {
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+a {
+  font-size: 17px;
+  color: darkorange;
+}
+
+img {
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+}
